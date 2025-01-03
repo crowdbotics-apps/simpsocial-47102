@@ -9,6 +9,9 @@ name = "pypi"
 python_version = "3.8"
 
 [packages]
+azure-keyvault-secrets = "~=4.8.0"
+azure-identity = "~=1.17.1"
+azure-storage-blob = "==12.20.0"
 cryptography = "~=41.0.4"
 django = "==3.2.23"
 "boto3" = "~=1.28.78"
